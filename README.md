@@ -10,8 +10,6 @@ Build a robust image classifier using CNNs to efficiently classify different pla
 -Convolutional Neural Networks
 -Transfer Learning
 
-**Introduction to Computer Vision: Plant Seedlings Classification**
-
 **Problem Statement**
 
 **Context**
